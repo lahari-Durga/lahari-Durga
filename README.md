@@ -1,7 +1,7 @@
 ## Hi, I'm Lahari Durga🚀  
 
-👩‍💻 B.Tech CSE (AI & ML) Student at VIT AP<br/>
-🧠 Passionate about Deep Learning and NLP<br/>
+👩‍💻 B.Tech CSE (AI & ML) Graduate at VIT AP<br/>
+🧠 Passionate about Software Developement and Artificial Intelligence<br/>
 🛠 Built AI projects in healthcare and security<br/> 
 🎨 Also enjoy technology and mobile app development<br/>  
 🔍 Always learning and exploring new AI innovations!
